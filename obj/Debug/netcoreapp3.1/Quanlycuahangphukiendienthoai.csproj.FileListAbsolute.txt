@@ -1,0 +1,4 @@
+C:\Users\ADMIN\Desktop\Quanlicuahangdienthoai-main (1)\Quanlicuahangdienthoai-main\obj\Debug\netcoreapp3.1\Quanlycuahangphukiendienthoai.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Quanlicuahangdienthoai-main (1)\Quanlicuahangdienthoai-main\obj\Debug\netcoreapp3.1\Quanlycuahangphukiendienthoai.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Quanlicuahangdienthoai-main (1)\Quanlicuahangdienthoai-main\obj\Debug\netcoreapp3.1\Quanlycuahangphukiendienthoai.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Quanlicuahangdienthoai-main (1)\Quanlicuahangdienthoai-main\obj\Debug\netcoreapp3.1\Quanlycuahangphukiendienthoai.csprojAssemblyReference.cache
